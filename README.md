@@ -8,7 +8,7 @@ I love Drake. 18 year old me would be shocked by this statement as I vaguely rem
 
 #### Before you go through the rest of this repository, I have a few suggestions:
 1. Open the nbviewer link so you can hover over the visualizations (link at the bottom)
-2. Listen to Drake. I have a spotify playlist ready for this occasion: https://goo.gl/uKVLRy
+2. Listen to Drake while you peruse. I have a spotify playlist ready for this occasion: https://goo.gl/uKVLRy
 
 ## Insights
 
