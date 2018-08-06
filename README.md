@@ -7,7 +7,7 @@
 I love Drake. 18 year old me would be shocked by this statement as I vaguely remember describing his voice as *"grating"*. Yet here I am, dedicating time and effort to analyzing his lyrics.
 
 #### Before you go through the rest of this repository, I have a few suggestions:
-1. Open the nbviewer link so you can hover over the visualizations (link at the bottom)
+1. Open the nbviewer link so you can hover to see specific songs (link at the bottom)
 2. Listen to Drake while you peruse. I have a spotify playlist ready for this occasion: https://goo.gl/uKVLRy
 
 ## Insights
