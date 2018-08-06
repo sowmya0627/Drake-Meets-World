@@ -7,7 +7,7 @@
 I love Drake. 18 year old me would be shocked by this statement as I vaguely remember describing his voice as *"grating"*. Yet here I am, dedicating time and effort to analyzing his lyrics.
 
 #### Process
-1. Scraped lyrics
+1. Scraped lyrics using BeautifulSoup
 2. Created metrics for Sentiment and Lexical Complexity
 3. Conducted topic analysis using NMF Model
 4. Created wordcloud of lyrics
