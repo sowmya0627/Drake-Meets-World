@@ -13,7 +13,7 @@ I love Drake. 18 year old me would be shocked by this statement as I vaguely rem
 4. Created wordcloud of lyrics
 
 #### Before you go through the rest of this repository, I have a few suggestions:
-1. Open the nbviewer link so you can hover to see specific songs (link at the bottom)
+1. Open the nbviewer link so you can hover to see specific songs: https://goo.gl/g2r3pt
 2. Listen to Drake while you peruse. I have a spotify playlist ready for this occasion: https://goo.gl/uKVLRy
 
 ## Insights
