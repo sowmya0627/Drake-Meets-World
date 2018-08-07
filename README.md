@@ -6,7 +6,7 @@
 ## Summary
 I love Drake. 18 year old me would be shocked by this statement as I vaguely remember describing his voice as *"grating"*. I think the main motivation for me to do this project was to disect what it is about Drake that I've suddenly become enamoured with. As I generated the metrics and visualizations, I explored where my favorite songs fell in and what topics I related to the most.
 
-What I've learned is that's he just more relatable than other popular artists. He's an emotional curly haired person (like me), trying to figure out his life. Below, I briefly listed out the process I went through to complete my analysis and some insights I generated.
+What I've learned is that he's just more relatable than other popular artists. He's an emotional curly haired person (like me), trying to figure out his life. Below, I briefly listed out the process I went through to complete my analysis and some insights I generated.
 
 #### Process
 1. Scraped lyrics using BeautifulSoup
