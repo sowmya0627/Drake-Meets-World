@@ -30,7 +30,7 @@ What I've learned is that he's just more relatable than other popular artists. H
 
 ![wordcloud](https://user-images.githubusercontent.com/40477918/43701208-30aad59e-990a-11e8-932f-f2a445fb84f6.png)
 #### Word Cloud
-+ Based on the prominent "I'm", I get the sense while I love Drake a lot, Drake loves Drake even more
++ Based on the prominent "I'm", I get the sense while I love Drake a lot, Drake loves Drake even more (or at least talking about himself)
 + Combined with the topic analysis, the most common theme is girls! Whether it's singing about girls or singing to them
     + In the topic analysis, I noticed most of the topics are emotional with words like "love", "hurt" and "lonely" and generally have the word "girl" or references to a girl (i.e. baby)
 + Overall, I think Drake just wants to talk about his feelings and maybe that's why I like him so much
