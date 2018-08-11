@@ -4,7 +4,7 @@
 ![drake_facebook](https://user-images.githubusercontent.com/40477918/43699918-99f67422-9905-11e8-897c-128b13153f82.png)
 
 ## Summary
-I love Drake. 18 year old me would be shocked by this statement as I vaguely remember describing his voice as *"grating"*. I think the main motivation for me to do this project was to disect what it is about Drake that I've suddenly become enamoured with. As I generated the metrics and visualizations, I explored where my favorite songs fell in and what topics I related to the most.
+I love Drake. I think the main motivation for me to do this project was to disect what it is about Drake that has made him so successful and a staple of almost every radio station. I focused on analyzing Drake's lyrics and how complex and emotional he has been throughout the years. As I generated the metrics and visualizations, I explored where my favorite songs fell in and what topics I related to the most.
 
 What I've learned is that he's just more relatable than other popular artists. He's an emotional curly haired person (like me), trying to figure out his life. Below, I briefly listed out the process I went through to complete my analysis and some insights I generated.
 
@@ -19,7 +19,7 @@ What I've learned is that he's just more relatable than other popular artists. H
 1. Open the nbviewer link instead so you can hover to see specific songs: https://goo.gl/g2r3pt
 2. Listen to Drake while you peruse. I have a spotify playlist ready for this occasion: https://goo.gl/uKVLRy
 
-## Insights
+## A Few Insights
 ![scores_by_year](https://user-images.githubusercontent.com/40477918/43701160-098c7f62-990a-11e8-8feb-49af6b35bc0c.png)
 #### Sentiment & Lexical Complexity by Year
 + The sentiment and lexical complexity of Drake's songs seem to move in the same direction through out the years
@@ -37,6 +37,9 @@ What I've learned is that he's just more relatable than other popular artists. H
     + In the topic analysis, I noticed most of the topics are emotional with words like "love", "hurt" and "lonely" and generally have the word "girl" or references to a girl (i.e. baby)
 + Overall, I think Drake just wants to talk about his feelings and maybe that's why I like him so much
 
+##### Note: 
+ - OVO is Drake's record label and stands for "October's Very Own"
+ 
 ## Next Steps
 + Look at sentiment score & lexical complexity by featured artist and by performance in charts
 + Topic analysis by album
