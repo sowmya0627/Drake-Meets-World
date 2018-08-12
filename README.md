@@ -16,12 +16,12 @@ What I've learned is that he's just more relatable than other popular artists. H
 5. Created wordcloud of lyrics
 
 #### Before you go through the rest of this repository, I have a few suggestions:
-1. Open the nbviewer link instead so you can hover to see specific songs: https://goo.gl/g2r3pt
+1. Open the nbviewer link instead so you can hover to see specific songs: https://goo.gl/drNcnf
 2. Listen to Drake while you peruse. I have a spotify playlist ready for this occasion: https://goo.gl/uKVLRy
 
 ## A Few Insights
-![scores_by_year](https://user-images.githubusercontent.com/40477918/43701160-098c7f62-990a-11e8-8feb-49af6b35bc0c.png)
-#### Sentiment & Lexical Complexity by Year
+![avg_by_year](https://user-images.githubusercontent.com/40477918/44005307-4ea5a526-9e26-11e8-8068-d1bbf6d28fdb.png)
+#### Average Sentiment & Lexical Complexity by Year
 + The sentiment and lexical complexity of Drake's songs seem to move in the same direction through out the years
 + 2015 had the lowest sentiment score and coincided with the year he released a collaborative mixtape with Future, "What A Time to Be Alive" which focused on dealing with personal demons and insecurities
 + 2017-2018 had the highest lexical complexity at an average of 0.43. 2017 was the year he released "More Life" an album sprinkled with Jamaican slang (potentially contributing to the higher lexical diversity) and in 2018 he released Scorpion, an album of 25 songs. 
@@ -30,7 +30,7 @@ What I've learned is that he's just more relatable than other popular artists. H
  - Sentiment Score is how positive or negative the lyrics are. The score can be negative; however, since this is average by year, the numbers are positive
  - I defined lexical complexity as the number of unique words out of the total words
 
-![wordcloud](https://user-images.githubusercontent.com/40477918/43701208-30aad59e-990a-11e8-932f-f2a445fb84f6.png)
+![wordcloud](https://user-images.githubusercontent.com/40477918/44005310-5c6580b4-9e26-11e8-83df-8a62378997f1.png)
 #### Word Cloud
 + Based on the prominent "I'm", I get the sense while I love Drake a lot, Drake loves Drake even more (or at least talking about himself)
 + Combined with the topic analysis, the most common theme is girls! Whether it's singing about girls or singing to them
