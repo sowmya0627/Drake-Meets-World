@@ -14,8 +14,8 @@ What I've learned is that he's just more relatable than other popular artists. H
 3. Created visualizations for metrics using Plotly
 4. Conducted topic analysis using NMF Model
 5. Created wordcloud of lyrics
-6. Clustered Songs Using KMeans Clustering
-7. Clustered Songs Using Ward Clustering
+6. Clustered songs using KMeans Clustering
+7. Clustered songs using Ward Clustering
 
 #### Before you go through the rest of this repository, I have a few suggestions:
 1. Open the nbviewer link instead so you can hover to see specific songs: https://goo.gl/xqMXh5
