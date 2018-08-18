@@ -18,7 +18,7 @@ What I've learned is that he's just more relatable than other popular artists. H
 7. Clustered Songs Using Ward Clustering
 
 #### Before you go through the rest of this repository, I have a few suggestions:
-1. Open the nbviewer link instead so you can hover to see specific songs: https://goo.gl/drNcnf
+1. Open the nbviewer link instead so you can hover to see specific songs: https://goo.gl/xqMXh5
 2. Listen to Drake while you peruse. I have a spotify playlist ready for this occasion: https://goo.gl/uKVLRy
 
 ## A Few Insights
